@@ -1,8 +1,8 @@
 # Star Wars Trivia
 
-[**View a Demo**](https://nss-vue-trivia.web.app/)
-
 For this project, create a set of flashcards which ask the user Star Wars trivia (or some other topic if you'd rather).
+
+[**View a Demo**](https://nss-vue-trivia.web.app/)
 
 ## Part 1
 
